@@ -1,6 +1,5 @@
-# KotlinPoi
+KotlinPoi
 ====
-
 ## Overview
 This program replaces Excel properties (creator etc).
 
