@@ -2,7 +2,7 @@
 <Configuration>
     <Directory>D:\WORKSPACE\Excel</Directory>
     <Properties>
-        <Property name="Title">タイトリュウウウウ</Property>
+        <Property name="Title">タイトル</Property>
         <Property name="Subject">件名</Property>
         <!-- タグ -->
         <Property name="Keywords">タグ</Property>
