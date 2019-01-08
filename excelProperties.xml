@@ -4,10 +4,8 @@
     <Properties>
         <Property name="Title">タイトル</Property>
         <Property name="Subject">件名</Property>
-        <!-- タグ -->
         <Property name="Keywords">タグ</Property>
         <Property name="Category">分類項目</Property>
-        <!-- コメント -->
         <Property name="Description">コメント</Property>
         <Property name="Creator">作成者</Property>
         <Property name="lastModifiedByUser">前回保存者</Property>
